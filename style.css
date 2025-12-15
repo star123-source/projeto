@@ -33,6 +33,8 @@ body {
     border-radius: 5px;
     padding: 1rem; 
     display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao_secundario {
@@ -42,5 +44,5 @@ body {
 
 .container__imagem{
     margin: 1em 0 2em 0;
-    
+
 }
