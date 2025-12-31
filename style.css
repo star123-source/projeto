@@ -8,14 +8,14 @@
   transition: all 100ms ease-in;
 }
 html{
-	background: #222048;
+	background: #d637d8;
 }
 .feliz{
   width: 100%;
   font-family: 'Pacifico', cursive;
   font-size: 100px;
   font-weight: 700;
-  color: #f48fb1;
+  color: #98405d;
   text-align: center;
   position: absolute;
   top: 50%;
